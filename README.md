@@ -14,6 +14,7 @@ List Schools: Retrieves all schools sorted by their proximity to the provided la
 ## 📷 API Test Example in Postman
 
 ![Postman Screenshot](Image/postman.png)
+![Postman Screenshot](Image/postman_data.png)
 
 ## 🗄️ MySQL Table View
 
